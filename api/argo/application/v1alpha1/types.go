@@ -13,8 +13,8 @@ import (
 	"time"
 	"unicode"
 
-	gitopsengine "github.com/cnoe-io/argocd-api/api/argo/gitops-engine"
-	synccommon "github.com/cnoe-io/argocd-api/api/argo/gitops-engine"
+	gitopsengine "github.com/nabuskey/argocd-api/api/argo/gitops-engine"
+	synccommon "github.com/nabuskey/argocd-api/api/argo/gitops-engine"
 	log "github.com/sirupsen/logrus"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
