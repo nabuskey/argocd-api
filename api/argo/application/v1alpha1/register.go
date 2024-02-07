@@ -1,7 +1,7 @@
 package v1alpha1
 
 import (
-	"github.com/cnoe-io/argocd-api/api/argo/application"
+	"github.com/nabuskey/argocd-api/api/argo/application"
 
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"
